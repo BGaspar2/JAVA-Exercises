@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"TareaEnum","l":"Electrodomesticos"},{"p":"TareaEnum","l":"Restricciones"},{"p":"TareaEnum","l":"VentaAlmacen"}];updateSearchResults();

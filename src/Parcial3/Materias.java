@@ -1,0 +1,18 @@
+package Parcial3;
+
+public enum Materias {
+	
+	REDESII("REDES II"), IOT("INTERNET DE LAS COSAS"), SISTEMAS_OPERATIVOS("SISTEMAS OPERATIVOS"), BASE_DE_DATOS("BASE DE DATOS I"), 
+	FILOSOFIA_COMPUTACIONAL("FILOSOFIA DE LAS CIENCIAS COM."), POO("PROGRAMACION ORIENTADA A OBJETOS"), REDES_INALAMBRICAS("REDES INALAMBRICAS"),
+	ESTRUCTURAS_DISCRETAS("ESTRUCTURAS DISCRETAS");
+	
+	private String impMaterias;
+	
+	private Materias(String m) {
+		impMaterias = m;
+	}
+	
+	public String toString() {
+		return impMaterias;
+	}
+}
